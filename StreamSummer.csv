@@ -1,0 +1,209 @@
+Country,Year,Ath_Rating
+East Germany,1968,49
+East Germany,1972,133
+East Germany,1976,218
+East Germany,1980,272
+East Germany,1988,236
+Russian Federation,1996,152
+Russian Federation,2000,177
+Russian Federation,2004,178
+Russian Federation,2008,124
+Russian Federation,2012,131
+Russian Federation,2016,124
+Soviet Union,1960,230
+Soviet Union,1964,203
+Soviet Union,1968,200
+Soviet Union,1972,260
+Soviet Union,1976,262
+Soviet Union,1980,466
+Soviet Union,1988,291
+Unified Team,1992,272
+United States,1960,177
+United States,1964,205
+United States,1968,251
+United States,1972,225
+United States,1976,229
+United States,1984,425
+United States,1988,231
+United States,1992,241
+United States,1996,240
+United States,2000,202
+United States,2004,241
+United States,2008,264
+United States,2012,243
+United States,2016,305
+Other Caribbean Islands,1960,1
+Other Caribbean Islands,1964,11
+Other Caribbean Islands,1968,8
+Other Caribbean Islands,1972,17
+Other Caribbean Islands,1976,39
+Other Caribbean Islands,1980,45
+Other Caribbean Islands,1984,8
+Other Caribbean Islands,1988,8
+Other Caribbean Islands,1992,76
+Other Caribbean Islands,1996,68
+Other Caribbean Islands,2000,101
+Other Caribbean Islands,2004,73
+Other Caribbean Islands,2008,77
+Other Caribbean Islands,2012,76
+Other Caribbean Islands,2016,58
+Other Central America,1960,1
+Other Central America,1964,1
+Other Central America,1968,18
+Other Central America,1972,2
+Other Central America,1976,4
+Other Central America,1980,6
+Other Central America,1984,13
+Other Central America,1988,4
+Other Central America,1992,2
+Other Central America,1996,4
+Other Central America,2000,12
+Other Central America,2004,7
+Other Central America,2008,10
+Other Central America,2012,12
+Other Central America,2016,8
+Other East Asia,1960,50
+Other East Asia,1964,77
+Other East Asia,1968,73
+Other East Asia,1972,90
+Other East Asia,1976,73
+Other East Asia,1980,14
+Other East Asia,1984,174
+Other East Asia,1988,139
+Other East Asia,1992,215
+Other East Asia,1996,201
+Other East Asia,2000,226
+Other East Asia,2004,316
+Other East Asia,2008,378
+Other East Asia,2012,366
+Other East Asia,2016,274
+Other Europe,1960,430
+Other Europe,1964,495
+Other Europe,1968,468
+Other Europe,1972,597
+Other Europe,1976,660
+Other Europe,1980,738
+Other Europe,1984,602
+Other Europe,1988,773
+Other Europe,1992,674
+Other Europe,1996,688
+Other Europe,2000,779
+Other Europe,2004,689
+Other Europe,2008,639
+Other Europe,2012,683
+Other Europe,2016,729
+Other North Africa,1960,5
+Other North Africa,1964,3
+Other North Africa,1968,4
+Other North Africa,1972,2
+Other North Africa,1984,10
+Other North Africa,1988,5
+Other North Africa,1992,10
+Other North Africa,1996,10
+Other North Africa,2000,14
+Other North Africa,2004,16
+Other North Africa,2008,10
+Other North Africa,2012,18
+Other North Africa,2016,11
+Other North America,1960,179
+Other North America,1964,213
+Other North America,1968,262
+Other North America,1972,233
+Other North America,1976,246
+Other North America,1984,507
+Other North America,1988,246
+Other North America,1992,281
+Other North America,1996,281
+Other North America,2000,226
+Other North America,2004,265
+Other North America,2008,299
+Other North America,2012,267
+Other North America,2016,342
+Other North Asia,1960,230
+Other North Asia,1964,203
+Other North Asia,1968,200
+Other North Asia,1972,260
+Other North Asia,1976,262
+Other North Asia,1980,466
+Other North Asia,1988,291
+Other North Asia,1992,272
+Other North Asia,1996,221
+Other North Asia,2000,247
+Other North Asia,2004,243
+Other North Asia,2008,192
+Other North Asia,2012,188
+Other North Asia,2016,162
+Other Oceania,1960,66
+Other Oceania,1964,49
+Other Oceania,1968,42
+Other Oceania,1972,46
+Other Oceania,1976,15
+Other Oceania,1980,21
+Other Oceania,1984,87
+Other Oceania,1988,54
+Other Oceania,1992,70
+Other Oceania,1996,89
+Other Oceania,2000,152
+Other Oceania,2004,142
+Other Oceania,2008,128
+Other Oceania,2012,110
+Other Oceania,2016,106
+Other South America,1960,6
+Other South America,1964,4
+Other South America,1968,9
+Other South America,1972,8
+Other South America,1976,4
+Other South America,1980,11
+Other South America,1984,22
+Other South America,1988,21
+Other South America,1992,13
+Other South America,1996,32
+Other South America,2000,28
+Other South America,2004,42
+Other South America,2008,45
+Other South America,2012,51
+Other South America,2016,72
+Other South and Southeast Asia,1960,4
+Other South and Southeast Asia,1964,5
+Other South and Southeast Asia,1968,1
+Other South and Southeast Asia,1972,1
+Other South and Southeast Asia,1976,1
+Other South and Southeast Asia,1980,3
+Other South and Southeast Asia,1984,2
+Other South and Southeast Asia,1988,4
+Other South and Southeast Asia,1992,11
+Other South and Southeast Asia,1996,17
+Other South and Southeast Asia,2000,21
+Other South and Southeast Asia,2004,24
+Other South and Southeast Asia,2008,32
+Other South and Southeast Asia,2012,25
+Other South and Southeast Asia,2016,39
+Other Sub-Saharan Africa,1960,9
+Other Sub-Saharan Africa,1964,6
+Other Sub-Saharan Africa,1968,29
+Other Sub-Saharan Africa,1972,29
+Other Sub-Saharan Africa,1980,17
+Other Sub-Saharan Africa,1984,12
+Other Sub-Saharan Africa,1988,24
+Other Sub-Saharan Africa,1992,37
+Other Sub-Saharan Africa,1996,55
+Other Sub-Saharan Africa,2000,48
+Other Sub-Saharan Africa,2004,51
+Other Sub-Saharan Africa,2008,60
+Other Sub-Saharan Africa,2012,55
+Other Sub-Saharan Africa,2016,66
+Other West and Central Asia,1960,35
+Other West and Central Asia,1964,17
+Other West and Central Asia,1968,19
+Other West and Central Asia,1972,11
+Other West and Central Asia,1976,4
+Other West and Central Asia,1980,1
+Other West and Central Asia,1984,8
+Other West and Central Asia,1988,8
+Other West and Central Asia,1992,21
+Other West and Central Asia,1996,58
+Other West and Central Asia,2000,66
+Other West and Central Asia,2004,81
+Other West and Central Asia,2008,69
+Other West and Central Asia,2012,99
+Other West and Central Asia,2016,143
