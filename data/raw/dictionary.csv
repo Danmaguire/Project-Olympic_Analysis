@@ -1,0 +1,200 @@
+Country,Code,Region
+Afghanistan,AFG,West and Central Asia
+Albania,ALB,Europe
+Algeria,ALG,North Africa
+American Samoa,ASA,Oceania
+Andorra,AND,Europe
+Angola,ANG,Sub-Saharan Africa
+Antigua and Barbuda,ANT,Caribbean Islands
+Argentina,ARG,South America
+Armenia,ARM,West and Central Asia
+Aruba,ARU,Caribbean Islands
+Australia,AUS,Oceania
+Austria,AUT,Europe
+Azerbaijan,AZE,West and Central Asia
+Bahamas,BAH,Caribbean Islands
+Bahrain,BRN,West and Central Asia
+Bangladesh,BAN,South and Southeast Asia
+Barbados,BAR,Caribbean Islands
+Belarus,BLR,North Asia
+Belgium,BEL,Europe
+Belize,BIZ,Central America
+Bermuda,BER,Caribbean Islands
+Benin,BEN,Sub-Saharan Africa
+Bhutan,BHU,South and Southeast Asia
+Bolivia,BOL,South America
+Bosnia and Herzegovina,BIH,Europe
+Botswana,BOT,Sub-Saharan Africa
+Brazil,BRA,South America
+British Virgin Islands,IVB,Caribbean Islands
+Brunei Darussalam,BRU,South and Southeast Asia
+Bulgaria,BUL,Europe
+Burkina Faso,BUR,Sub-Saharan Africa
+Burundi,BDI,Sub-Saharan Africa
+Cambodia,CAM,South and Southeast Asia
+Cameroon,CMR,Sub-Saharan Africa
+Canada,CAN,North America
+Cabo Verde,CPV,Sub-Saharan Africa
+Cayman Islands,CAY,Caribbean Islands
+Central African Republic,CAF,Sub-Saharan Africa
+Chad,CHA,Sub-Saharan Africa
+Chile,CHI,South America
+China,CHN,East Asia
+Colombia,COL,South America
+Comoros,COM,Sub-Saharan Africa
+"Congo, Dem Rep",COD,Sub-Saharan Africa
+Costa Rica,CRC,Central America
+Cote d'Ivoire,CIV,Sub-Saharan Africa
+Croatia,CRO,Europe
+Cuba,CUB,Caribbean Islands
+Cyprus,CYP,West and Central Asia
+Czech Republic,CZE,Europe
+Denmark,DEN,Europe
+Djibouti,DJI,Sub-Saharan Africa
+Dominica,DMA,Caribbean Islands
+Dominican Republic,DOM,Caribbean Islands
+Timor-Leste,TLS,South and Southeast Asia
+Ecuador,ECU,South America
+Egypt Arab Rep,EGY,North Africa
+El Salvador,ESA,Central America
+Equatorial Guinea,GEQ,Sub-Saharan Africa
+Eritrea,ERI,Sub-Saharan Africa
+Estonia,EST,Europe
+Ethiopia,ETH,Sub-Saharan Africa
+Fiji,FIJ,Oceania
+Finland,FIN,Europe
+France,FRA,Europe
+Gabon,GAB,Sub-Saharan Africa
+Gambia,GAM,Sub-Saharan Africa
+Georgia,GEO,West and Central Asia
+Germany,GER,Europe
+Ghana,GHA,Sub-Saharan Africa
+Greece,GRE,Europe
+Grenada,GRN,Caribbean Islands
+Guam,GUM,Oceania
+Guatemala,GUA,Central America
+Guinea,GUI,Sub-Saharan Africa
+Guinea-Bissau,GBS,Sub-Saharan Africa
+Guyana,GUY,South America
+Haiti,HAI,Caribbean Islands
+Honduras,HON,Central America
+"Hong Kong SAR, China",HKG,East Asia
+Hungary,HUN,Europe
+Iceland,ISL,Europe
+India,IND,South and Southeast Asia
+Indonesia,INA,South and Southeast Asia
+"Iran, Islamic Rep.",IRI,West and Central Asia
+Iraq,IRQ,West and Central Asia
+Ireland,IRL,Europe
+Israel,ISR,West and Central Asia
+Italy,ITA,Europe
+Jamaica,JAM,Caribbean Islands
+Japan,JPN,East Asia
+Jordan,JOR,West and Central Asia
+Kazakhstan,KAZ,West and Central Asia
+Kenya,KEN,Sub-Saharan Africa
+"Korea, Dem. People's Rep.",PRK,East Asia
+"Korea, Rep.",KOR,East Asia
+Kuwait,KUW,West and Central Asia
+Kyrgyz Republic,KGZ,West and Central Asia
+Lao PDR,LAO,South and Southeast Asia
+Latvia,LAT,Europe
+Lebanon,LIB,West and Central Asia
+Lesotho,LES,Sub-Saharan Africa
+Liberia,LBR,Sub-Saharan Africa
+Libya,LBA,North Africa
+Liechtenstein,LIE,Europe
+Lithuania,LTU,Europe
+Luxembourg,LUX,Europe
+"Macedonia, FYR",MKD,Europe
+Madagascar,MAD,Sub-Saharan Africa
+Malawi,MAW,Sub-Saharan Africa
+Malaysia,MAS,South and Southeast Asia
+Maldives,MDV,South and Southeast Asia
+Mali,MLI,Sub-Saharan Africa
+Malta,MLT,Europe
+Mauritania,MTN,Sub-Saharan Africa
+Mauritius,MRI,Sub-Saharan Africa
+Mexico,MEX,Central America
+Micronesia Fed. Sts.,FSM,Oceania
+Moldova,MDA,North Asia
+Monaco,MON,Europe
+Mongolia,MGL,East Asia
+Morocco,MAR,North Africa
+Mozambique,MOZ,Sub-Saharan Africa
+Myanmar,MYA,South and Southeast Asia
+Namibia,NAM,Sub-Saharan Africa
+Nauru,NRU,Oceania
+Nepal,NEP,South and Southeast Asia
+Netherlands,NED,Europe
+New Zealand,NZL,Oceania
+Nicaragua,NCA,Central America
+Niger,NIG,Sub-Saharan Africa
+Nigeria,NGR,Sub-Saharan Africa
+Norway,NOR,Europe
+Oman,OMA,West and Central Asia
+Pakistan,PAK,West and Central Asia
+Palau,PLW,Oceania
+Panama,PAN,Central America
+Papua New Guinea,PNG,Oceania
+Paraguay,PAR,South America
+Peru,PER,South America
+Philippines,PHI,South and Southeast Asia
+Poland,POL,Europe
+Portugal,POR,Europe
+Puerto Rico,PUR,Caribbean Islands
+Qatar,QAT,West and Central Asia
+Romania,ROU,Europe
+Russian Federation,RUS,North Asia
+Rwanda,RWA,Sub-Saharan Africa
+St. Kitts and Nevis,SKN,Caribbean Islands
+St. Lucia,LCA,Caribbean Islands
+St. Vincent and the Grenadines,VIN,Caribbean Islands
+Samoa,SAM,Oceania
+San Marino,SMR,Europe
+Sao Tome and Principe,STP,Sub-Saharan Africa
+Saudi Arabia,KSA,West and Central Asia
+Senegal,SEN,Sub-Saharan Africa
+Serbia,SRB,Europe
+Seychelles,SEY,Sub-Saharan Africa
+Sierra Leone,SLE,Sub-Saharan Africa
+Singapore,SGP,South and Southeast Asia
+Slovak Republic,SVK,Europe
+Slovenia,SLO,Europe
+Solomon Islands,SOL,Oceania
+Somalia,SOM,Sub-Saharan Africa
+South Africa,RSA,Sub-Saharan Africa
+Spain,ESP,Europe
+Sri Lanka,SRI,South and Southeast Asia
+Sudan,SUD,Sub-Saharan Africa
+Suriname,SUR,South America
+Swaziland,SWZ,Sub-Saharan Africa
+Sweden,SWE,Europe
+Switzerland,SUI,Europe
+Syrian Arab Republic,SYR,West and Central Asia
+Tajikistan,TJK,West and Central Asia
+Tanzania,TAN,Sub-Saharan Africa
+Thailand,THA,South and Southeast Asia
+Togo,TOG,Sub-Saharan Africa
+Tonga,TGA,Oceania
+Trinidad and Tobago,TTO,Caribbean Islands
+Tunisia,TUN,North Africa
+Turkey,TUR,West and Central Asia
+Turkmenistan,TKM,West and Central Asia
+Uganda,UGA,Sub-Saharan Africa
+Ukraine,UKR,North Asia
+United Arab Emirates,UAE,West and Central Asia
+United Kingdom,GBR,Europe
+United States,USA,North America
+Uruguay,URU,South America
+Uzbekistan,UZB,West and Central Asia
+Vanuatu,VAN,Oceania
+Venezuela,VEN,South America
+Vietnam,VIE,South and Southeast Asia
+Virgin Islands (US),ISV,Caribbean Islands
+"Yemen, Rep.",YEM,West and Central Asia
+Zambia,ZAM,Sub-Saharan Africa
+Zimbabwe,ZIM,Sub-Saharan Africa
+Curacao,CUW,Caribbean Islands
+Montenegro,MNE,Europe
+Kosovo,KOS,Europe
